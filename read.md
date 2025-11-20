@@ -10,6 +10,8 @@ you can run on:
 this is a safe hacking tool for Pentesting, username checking and password generator etc tool!
 The tool is fully open source, and i will be adding more tools in the feature!
 
+if you are trying to use sqlmap option and it says 'Sqlmap.py not found' please git clone Sqlmap into the "sql" folder and remove any folders that are copied.
+
 **I DO NOT CLAIM ANY RIGHTS TO SQLMAP, FULL CREDIT FOR THE SQLMAP OPTION GOES TO ITS ORIGINAL CREATORS!**
 
 <img width="889" height="336" alt="image" src="https://github.com/user-attachments/assets/ff6b940c-44d3-4bd3-b8bf-2b515e05055c" />
